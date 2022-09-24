@@ -1,6 +1,3 @@
 # Philosophers
 Philosophers (42cursus) 2021
-
-- Actual Status : finished.
-- Result        : 100%
-- Observations : NULL
+Реализация создания нескольких потоков, а так же работа с мьютексами.
